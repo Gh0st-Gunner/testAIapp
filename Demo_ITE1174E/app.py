@@ -4,8 +4,8 @@ import numpy as np
 
 st.set_page_config(page_title="Khảo sát Outlier & Hồi quy tuyến tính", layout="wide")
 
-st.title("📌 Khảo sát tác động của điểm ngoại lai lên nghiệm Hồi quy tuyến tính")
-st.write("### Góc nhìn: Đại số tuyến tính – nghiệm β = (XᵀX)⁻¹Xᵀy")
+st.title("📌 Developing a Vietnamese News Classification System Using XGBoost and AutoML Natural Language.")
+st.write("### test")
 
 # ---------------------------------------------------------
 # 1. Load CSV
