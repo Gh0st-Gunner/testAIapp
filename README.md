@@ -1,2 +1,0 @@
-# testAIapp
-test môn PTUDAI
